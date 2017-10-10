@@ -1,0 +1,19 @@
+{
+  "name": "wolfmaeg",
+  "version": "1.0.0",
+  "description": "Mi primer web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmirgn/wolfmaeg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmirgn/wolfmaeg/issues"
+  },
+  "homepage": "https://github.com/vmirgn/wolfmaeg#readme"
+}
